@@ -1,2 +1,4 @@
-# invie-github
-Tus mejores guitarras Invie-sibles by @bider88
+# invie
+Las guitarras más locas by Irving Didier
+
+https://bider88.github.io/invie-github/
